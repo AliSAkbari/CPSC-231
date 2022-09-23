@@ -8,5 +8,4 @@ Course Hours:
 
 Instructor: Rob Kremer  
 TA: Shunyi Xu  
-Overall grade: B  
 
